@@ -3,11 +3,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/mattheus-xavier" target="blank">
+  <a href="https://linkedin.com/in/mattheus-xavier" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mattheus-xavier" height="30" width="130" />     </a>
-  <a href="https://instagram.com/mattheus.xavier" target="blank">
+  <a href="https://instagram.com/mattheus.xavier" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mattheus.xavier" height="30" width="130" />     </a>
-  <a href="https://api.whatsapp.com/send?phone=+5527999265198" target="blank">
+  <a href="https://api.whatsapp.com/send?phone=+5527999265198" target="_blank">
     <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="mattheusxavier" height="30" width="130" />
   </a>
 </p>
