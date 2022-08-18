@@ -43,9 +43,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="30" width="130"/>
 </a>
 <h2>Mobile Frameworks</h2>
-<a href="https://ionicframework.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" height="30" width="130"/>
-</a>
 <a href="https://reactnative.dev/" target="_blank">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native" height="30" width="130"/>
 </a>
